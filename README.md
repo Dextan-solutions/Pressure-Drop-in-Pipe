@@ -3,3 +3,5 @@
 % It adopt Colebroke Method to calculate friction factor in nonlaminar condition 
 % using Newton Raphson Numerical Method of nonlinear algebraic equation.
 % Reference book: Introduction to Numerical Method in Chemical Engineering
+
+To see the result of the code please open the pdf file called "CodeResult"
